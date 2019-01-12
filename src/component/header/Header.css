@@ -1,0 +1,28 @@
+
+header {
+   width: 100%;
+   height: 60px;
+   background: rgb(255, 255, 255);
+   border-bottom: 2px;
+   border-bottom-color: rgb(152,152,152); 
+   border-bottom-style: solid;
+}
+
+#logo{
+    float: left;
+    padding-left: 100px;
+}
+
+#links{
+    float: right;
+    width: 500px;
+    height: 20px;
+}
+.header-links{
+    display: inline-block;
+    padding-left: 20px;
+}
+a:link {
+    text-decoration: none;
+    color: black;
+}
